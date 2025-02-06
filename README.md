@@ -17,7 +17,7 @@ A collection of 4 classic arcade games built with C# and Windows Forms. Develope
 4. **Sudoku** - A number-based puzzle game that challenges players to fill a 9x9 grid following Sudoku rules.
 
 ### Starting Page
-![Starting Page](Media/StartIMG.png)
+![Starting Page](Media/Start.png)
 
 ### Matching Game
 ![Matching Game](Media/MemoryIMG.png)
